@@ -10,8 +10,7 @@ I'm a passionate developer with a strong interest in building innovative and sca
 - **Frontend:** HTML, CSS
 - **Programming Languages**: Java, Python, JavaScript, C
 - **Frameworks & Libraries:** React
-<!--- **Databases:** MongoDB, MySQL, PostgreSQL -->
-- **Tools & Platforms:** Git, GitHub, Figma
+- **Tools & Platforms:** Git, GitHub, Figma <!--- **Databases:** MongoDB, MySQL, PostgreSQL -->
 
 ---
 
