@@ -7,10 +7,12 @@ I'm a passionate developer with a strong interest in building innovative and sca
 ---
 
 ### 🔧 Tech Stack
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS, Tailwind CSS
 - **Programming Languages**: Java, Python, JavaScript, C
 - **Frameworks & Libraries:** React
+- **Backend Frameworks**: Node, Express
 - **Tools & Platforms:** Git, GitHub, Figma <!--- **Databases:** MongoDB, MySQL, PostgreSQL -->
+- **Databases:** MongoDB
 
 ---
 
@@ -28,7 +30,7 @@ I'm a passionate developer with a strong interest in building innovative and sca
 ---
 -->
 ### 🌐 Let's Connect
-- LinkedIn: www.linkedin.com/in/tejas-singh-6114052a4
+- LinkedIn: www.linkedin.com/in/tejas-singh-ts27
 
 ---
 
