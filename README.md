@@ -12,7 +12,8 @@ I'm a passionate developer with a strong interest in building innovative and sca
 - **Frameworks & Libraries:** React, TensorFlow  
 - **Backend Frameworks**: Node, Express  
 - **Tools & Platforms:** Git, GitHub, Figma, Linux  
-- **Databases:** MongoDB  
+- **Databases:** MongoDB
+- **Cloud:** Azure
 
 ---  
 
