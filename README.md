@@ -8,11 +8,11 @@ I'm a passionate developer with a strong interest in building innovative and sca
 
 ### 🔧 Tech Stack  
 - **Frontend:** HTML, CSS, Tailwind CSS  
-- **Programming Languages**: Java, Python, JavaScript, TypeScript, C  
+- **Programming Languages**: Java, Python, JavaScript, TypeScript, C++, C  
 - **Frameworks & Libraries:** React, TensorFlow  
-- **Backend Frameworks**: Node, Express  
+- **Backend Frameworks**: Node, Express, Spring Boot  
 - **Tools & Platforms:** Git, GitHub, Figma, Linux  
-- **Databases:** MongoDB
+- **Databases:** MongoDB, SQLite
 - **Cloud:** Azure
 
 ---  
@@ -23,14 +23,21 @@ I'm a passionate developer with a strong interest in building innovative and sca
 - Competitive Programming  
 
 ---  
+ 
+### 🛠️ Projects
 
-<!--  
-### 🛠️ Projects  
-- **[Project 1 Name]**: A full stack web application that [brief description of the project].  
-- **[Project 2 Name]**: An AI/ML-powered tool that [brief description of the project].  
+- **AI Podcast Generator**  
+  *Tech Stack: MERN, Gemini, FFmpeg, GCP, Firebase*  
+  A full-stack web app that generates customizable podcasts using Gemini for script creation and Deepgram, ElevenLabs, Azure TTS for voice synthesis.  
+  Features include script editing, voice selection, FFmpeg-based audio merging, and secure authentication (JWT, Google Sign-In, email/phone verification, password reset).  
+  GCP is used for podcast storage, Firebase for authentication and messaging, and Google SMTP for email services.
+  
+- **Fintrack**  
+  *Tech Stack: Android (Java), SQLite, SharedPreferences*  
+  An Android app to track daily, weekly, and monthly expenses with features like budget planning, transaction management, and financial trend analysis.  
+  Includes authentication, detailed transaction history, pie/bar chart visualizations, and profile/settings management. 
 
----  
--->  
+---    
 
 ### 🌐 Let's Connect  
 - LinkedIn: www.linkedin.com/in/tejas-singh-ts27  
