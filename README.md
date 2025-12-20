@@ -1,48 +1,37 @@
-# Hi there, I'm Tejas Singh 👋  
+<h1 align="center">Hi 👋, I'm Tejas Singh</h1>
 
-### 🚀 Full Stack Developer | AI & ML Enthusiast  
+### 🚀 Full Stack Developer 
 
-I'm a passionate developer with a strong interest in building innovative and scalable web applications. I'm also diving deep into the world of Artificial Intelligence and Machine Learning, constantly learning and experimenting with new technologies.  
+I’m a passionate developer focused on building innovative, scalable web applications. I enjoy solving real-world problems, writing clean and maintainable code, and continuously improving my skills by exploring new technologies and building impactful projects.
 
 ---  
 
 ### 🔧 Tech Stack  
-- **Frontend:** HTML, CSS, Tailwind CSS  
-- **Programming Languages**: Java, Python, JavaScript, TypeScript, C++, C  
-- **Frameworks & Libraries:** React, TensorFlow  
-- **Backend Frameworks**: Node, Express, Spring Boot  
-- **Tools & Platforms:** Git, GitHub, Figma, Linux  
-- **Databases:** MongoDB, SQLite
-- **Cloud:** Azure
+- **Programming Languages:** Java, Python, JavaScript, TypeScript, C, SQL  
+- **Backend:** Spring Boot, Node.js, Express.js  
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB  
+- **Frontend:** HTML, CSS, Tailwind, React.js, Next.js  
+- **AI/ML:** RAG, TensorFlow  
+- **Tools & Platforms:** Git, GitHub, Gemini API, AWS (S3, SES, SNS), Azure (TTS), Google Maps API, Figma  
 
----  
+---
 
-### 🌱 What I'm Currently Learning  
-- AI & ML  
-- Data Structures and Algorithms  
-- Competitive Programming  
-
----  
- 
-### 🛠️ Projects
-
-- **AI Podcast Generator**  
-  *Tech Stack: MERN, Gemini, FFmpeg, GCP, Firebase*  
-  A full-stack web app that generates customizable podcasts using Gemini for script creation and Deepgram, ElevenLabs, Azure TTS for voice synthesis.  
-  Features include script editing, voice selection, FFmpeg-based audio merging, and secure authentication (JWT, Google Sign-In, email/phone verification, password reset).  
-  GCP is used for podcast storage, Firebase for authentication and messaging, and Google SMTP for email services.
-  
-- **Fintrack**  
-  *Tech Stack: Android (Java), SQLite, SharedPreferences*  
-  An Android app to track daily, weekly, and monthly expenses with features like budget planning, transaction management, and financial trend analysis.  
-  Includes authentication, detailed transaction history, pie/bar chart visualizations, and profile/settings management. 
+### 💡 Interests
+- Building scalable full-stack web applications  
+- Solving algorithmic and system design problems  
+- Exploring backend architecture and performance optimization  
+- Developing real-world projects with clean, maintainable code  
+- Learning new tools, frameworks, and engineering best practices
 
 ---    
 
-### 🌐 Let's Connect  
-- LinkedIn: www.linkedin.com/in/tejas-singh-ts27  
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tejassingh022&theme=midnight-purple&hide_border=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=tejassingh022&theme=midnight-purple&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejassingh022&theme=midnight-purple&hide_border=false&count_private=false&layout=compact)
 
----  
 
-### ⚡ Fun Fact  
-I'm always excited to learn new things and collaborate on interesting projects!  
+## 🌐 Let's Connect:
+  <a href="mailto:tejassingh8493@gmail"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tejas-singh-ts27"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
