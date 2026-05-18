@@ -26,9 +26,9 @@ I’m a passionate developer focused on building innovative, scalable web applic
 ---    
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejassingh022&theme=midnight-purple&hide_border=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=tejassingh022&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejassingh022&theme=midnight-purple&hide_border=false&count_private=false&layout=compact)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejassingh022&show_icons=true&theme=midnight-purple)-->
+![GitHub Streak](https://streak-stats.demolab.com?user=tejassingh022&theme=midnight-purple)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejassingh022&layout=compact&theme=midnight-purple)-->
 
 
 ## 🌐 Let's Connect:
